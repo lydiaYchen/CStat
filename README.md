@@ -29,3 +29,24 @@ Lydia is the responsible instructors of this course and can jointly be reached a
 - Understand and Applying ANOVA analysis
 - Analysis and developing classifical time series analysis
 - Understanding and developing deep time series generative models
+
+
+##  7. <a name='Detailedschedule'></a>Detailed schedule
+
+
+**Week**|**Lecture Topic**|**Lab**|**Additional note**
+:-----|:-----|:-----|:-----
+Week 1 (Feb 18) | Introduction and Recap| Lydia | 
+Week 2 (Feb 25) | ANOVA I| Lydia|
+Week 3 (Mar 4) | ANOVA II| Abel | 
+Week 4 (Mar 11) | DoE I   | Lydia |
+Week 5 (Mar 18) | DoE II | Abel |
+Week 6 (Mar 25) | Time Series  I  |Lydia | 
+Week 7 (April 1) | Time Series  II | Abel|
+Week 8 (April 8)  | Project midterm presentation  | Lydia | ch 14
+Week 9 (April 15) | Time Series  III  | Abel  | 
+Week 10 (April 22 | Time Series IV | Lydia | ch 12
+Week 11 (April 29) | RNN I | Lydia  | ch 27|
+Week 12 (May 6) | RNN II | Abel
+Week 13 (May 13) | Overview| Abel
+Week 14 (May 20) | Project final presenation  | Lydia
