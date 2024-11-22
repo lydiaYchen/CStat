@@ -47,7 +47,7 @@ Week 7 (April 1) | DoE II  | | |
 Week 8 (April 8) | DoE III | | |
 Week 9 (April 15) |Project midterm presentation   | | |
 Week 10 (April 22) | Time Series  I| | |
-Week 11 (April 29)  |  Time Series  II | Lydia | ch 14||
+Week 11 (April 29)  |  Time Series  II |  | ch 14||
 Week 12 (May 6) | Time Series  III  |   | |
 Week 13 (May 13 | Time Series IV |  | ch 12
 Week 14 (May 20) | Project final presenation  | ||
