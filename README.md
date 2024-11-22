@@ -6,14 +6,15 @@ This is the course repoisitory for the computational statistics course at Data S
 ##  2. <a name='Coursedescription'></a>Course description
 
 In this course, there are three modules. 
-- Part I: Anova analysis and design of experiments
-- Part II: Classic Time Series Analysis
-- Part III: Deep Time Series Analysis
+- Part I:  Statistical Inference
+- Part II:  Anova analysis and design of experiments
+- Part III: Time Series Analysis
 
 
 ##  3. <a name='Textbooks'></a>Textbooks
-Here is the textbook for this course.
-https://www.cs.cmu.edu/~harchol/Probability/book.html
+Here are the textbook for this course.
+PartI: https://www.cs.cmu.edu/~harchol/Probability/book.html
+PartII: https://www.wiley.com/en-us/Introduction+to+Time+Series+Analysis+and+Forecasting%2C+3rd+Edition-p-9781394186709
 
 ##  4. <a name='Courseteam'></a>Course team
 
@@ -24,7 +25,7 @@ This course will be mainly taught by [Prof. Lydia Y Chen](https://lydiaychen.git
 Lydia is the responsible instructors of this course and can jointly be reached at **lydiaychen@ieee.org**.
 
 ##  5. <a name='Learningobjectives'></a>Learning objectives
-
+- Understand statistical inference
 - Understand and design expimernts
 - Understand and Applying ANOVA analysis
 - Analysis and developing classifical time series analysis
@@ -36,17 +37,17 @@ Lydia is the responsible instructors of this course and can jointly be reached a
 
 **Week**|**Lecture Topic**|**Lab**|**Additional note**
 :-----|:-----|:-----|:-----
-Week 1 (Feb 18) | Introduction and Recap| Lydia | 
-Week 2 (Feb 25) | ANOVA I| Lydia|
-Week 3 (Mar 4) | ANOVA II| Abel | 
-Week 4 (Mar 11) | DoE I   | Lydia |
-Week 5 (Mar 18) | DoE II | Abel |
-Week 6 (Mar 25) | Time Series  I  |Lydia | 
-Week 7 (April 1) | Time Series  II | Abel|
-Week 8 (April 8)  | Project midterm presentation  | Lydia | ch 14
-Week 9 (April 15) | Time Series  III  | Abel  | 
-Week 10 (April 22 | Time Series IV | Lydia | ch 12
-Week 11 (April 29) | RNN I | Lydia  | ch 27|
-Week 12 (May 6) | RNN II | Abel
-Week 13 (May 13) | Overview| Abel
-Week 14 (May 20) | Project final presenation  | Lydia
+Week 1 (Feb 18) | Introduction and Recap| Book Chpater | Lab
+Week 2 (Feb 25) | Estimator | | |
+Week 3 (Mar 4) | Classifical inference | | |
+Week 4 (Mar 11) | Hypothesis Testing   | | |
+Week 5 (Mar 18) | Regression || |
+Week 6 (Mar 25) | DoE I|  | | |
+Week 7 (April 1) | DoE II  | | |
+Week 8 (April 8) | DoE III | | |
+Week 9 (April 15) |Project midterm presentation   | | |
+Week 10 (April 22) | Time Series  I| | |
+Week 11 (April 29)  |  Time Series  II | Lydia | ch 14||
+Week 12 (May 6) | Time Series  III  |   | |
+Week 13 (May 13 | Time Series IV |  | ch 12
+Week 14 (May 20) | Project final presenation  | ||
