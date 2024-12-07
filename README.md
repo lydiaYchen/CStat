@@ -51,4 +51,6 @@ Week 10 (April 22) | **No Lecture**|  **No Lab**  |
 Week 11 (April 29)  |  Time Series  I |  |  Fouad/Gill|
 Week 12 (May 6) | Time Series  II |   | Fouad/Gill |
 Week 13 (May 13 | Time Series III |  |  Fouad/Gill|
-Week 14 (May 20) | Project final presentation | | **Lab interview**|
+Week 14 (May 20) | Lecture Review   | | **Lab interview**|
+Week 15 (May 27) | Project final presentation | | |
+
