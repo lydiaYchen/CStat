@@ -41,14 +41,14 @@ Lydia is the responsible instructors of this course and can jointly be reached a
 Week 1 (Feb 18) | Introduction and Recap|  | 
 Week 2 (Feb 25) | Estimator | | Basile |
 Week 3 (Mar 4) | Classical inference | | Basile|
-Week 4 (Mar 11) | Hypothesis Testing   | | Basile |
-Week 5 (Mar 18) | Regression || **Lab interview**|
-Week 6 (Mar 25) | DoE I|  | Bart/Roberto |
-Week 7 (April 1) | DoE II | | Bart/Roberto|
-Week 8 (April 8) | DoE III | | Bart/Roberto |
+Week 4 (Mar 11) | Hypothesis Testing   | Book2-Ch2| Basile |
+Week 5 (Mar 18) | Regression |Book2- ch2| **Lab interview**|
+Week 6 (Mar 25) | DoE I| Book 2- ch3  | Bart/Roberto |
+Week 7 (April 1) | DoE II |Book 2- ch 5| Bart/Roberto|
+Week 8 (April 8) | DoE III | Book 2- Ch 8 | Bart/Roberto |
 Week 9 (April 15) |Project midterm (online) presentation   | | **Lab interview** |
 Week 10 (April 22) | **No Lecture**|  **No Lab**  |
-Week 11 (April 29)  |  Time Series  I |  |  Fouad/Gill|
+Week 11 (April 29)  |  Time Series  I - Book |  |  Fouad/Gill|
 Week 12 (May 6) | Time Series  II |   | Fouad/Gill |
 Week 13 (May 13 | Time Series III |  |  Fouad/Gill|
 Week 14 (May 20) | Lecture Review   | | **Lab interview**|
