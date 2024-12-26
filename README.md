@@ -27,9 +27,9 @@ Lydia is the responsible instructors of this course and can jointly be reached a
 
 ##  5. <a name='Learningobjectives'></a>Learning objectives
 - Understand statistical inference
-- Understand and design expimernts
+- Understand and design experiments
 - Understand and Applying ANOVA analysis
-- Analysis and developing classifical time series analysis
+- Analysis and developing classical time series analysis
 - Understanding and developing deep time series generative models
 
 
@@ -39,18 +39,18 @@ Lydia is the responsible instructors of this course and can jointly be reached a
 **Week**|**Lecture Topic**|**Book chapter**|**Lab designer**
 :-----|:-----|:-----|:-----
 Week 1 (Feb 18) | Introduction and Recap|  | 
-Week 2 (Feb 25) | Estimator | | Basile |
-Week 3 (Mar 4) | Classical inference | | Basile|
+Week 2 (Feb 25) | Estimator |Book1 | Basile | 
+Week 3 (Mar 4) | Classical inference | Book 1 | Basile|
 Week 4 (Mar 11) | Hypothesis Testing   | Book2-Ch2| Basile |
 Week 5 (Mar 18) | Regression |Book2- ch2| **Lab interview**|
-Week 6 (Mar 25) | DoE I| Book 2- ch3  | Bart/Roberto |
-Week 7 (April 1) | DoE II |Book 2- ch 5| Bart/Roberto|
-Week 8 (April 8) | DoE III | Book 2- Ch 8 | Bart/Roberto |
+Week 6 (Mar 25) | DoE I| Book 2- ch3  | Aditya/Roberto |
+Week 7 (April 1) | DoE II |Book 2- ch 5| Aditya/Roberto|
+Week 8 (April 8) | DoE III | Book 2- Ch 8 | Aditya/Roberto |
 Week 9 (April 15) |Project midterm (online) presentation   | | **Lab interview** |
-Week 10 (April 22) | **No Lecture**|  **No Lab**  |
-Week 11 (April 29)  |  Time Series  I - Book |  |  Fouad/Gill|
-Week 12 (May 6) | Time Series  II |   | Fouad/Gill |
-Week 13 (May 13 | Time Series III |  |  Fouad/Gill|
+Week 10 (April 22) | **No Lecture**|   | **No Lab** 
+Week 11 (April 29)  |  Time Series  I | Book 3  |  Fouad/Gill|
+Week 12 (May 6) | Time Series  II | Book 3  | Fouad/Gill |
+Week 13 (May 13 | Time Series III | Book 3 |  Fouad/Gill|
 Week 14 (May 20) | Lecture Review   | | **Lab interview**|
 Week 15 (May 27) | Project final presentation | | |
 
