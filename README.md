@@ -10,8 +10,8 @@ In this course, there are three modules:
 - Part II:  Anova analysis and design of experiments
 - Part III: Time Series Analysis
 
-There are two grading items :dart:
-- Three Lab interviews: pass/fail. Each passing lab accounts for 10 % of the final grade.
+This course is continuously evaluated and have following two grading items :dart:
+- Three Lab interviews (30\%): pass/fail . Each passing lab accounts for 10 % of the final grade.
   
 - Final project: 70 % of the final grade, consisting of three milestones
   * Midterm presentation on the project proposal and progress (April 15): feedback will be given but not graded
@@ -54,11 +54,11 @@ Week 5 (Mar 18) | Regression |Book2- ch2| **Lab interview**|
 Week 6 (Mar 25) | DoE I| Book 2- ch3  | Elif |
 Week 7 (April 1) | DoE II |Book 2- ch 5| Elif|
 Week 8 (April 8) | DoE III | Book 2- Ch 8 |Elif |
-Week 9 (April 15) |ANOVA usecase presentation   | | **Lab interview** |
+Week 9 (April 15) |Project midterm   | | **Lab interview** |
 Week 10 (April 22) | **No Lecture**|   | **No Lab** 
 Week 11 (April 29)  |  Time Series  I | Book 3 -ch |  Fouad/Roberto|
 Week 12 (May 6) | Time Series  II | Book 3 -ch  | Fouad/Roberto |
 Week 13 (May 13 | Time Series III | Book 3 -ch |  Fouad/Roberto|
 Week 14 (May 20) | Lecture Review   | | **Lab interview**|
-Week 15 (May 27) | Timeseries  usecase presentation  | | |
+Week 15 (May 27) | Project final presentation  | | |
 
