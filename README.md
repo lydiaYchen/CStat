@@ -10,10 +10,13 @@ In this course, there are three modules:
 - Part II:  Anova analysis and design of experiments
 - Part III: Time Series Analysis
 
-There are three grading items :dart:
-- Three Lab interviews: pass/fail. Each passing lab accounts for 5 % of the final grade.
-- Two in-class presentations on practical use cases: 10 % of the final grade. Two topics: ANOVA and Time Series Analysis. 
-- Final exam: 90 % of the final grade
+There are two grading items :dart:
+- Three Lab interviews: pass/fail. Each passing lab accounts for 10 % of the final grade.
+  
+- Final project: 70 % of the final grade, consisting of three milestones
+  * Midterm presentation on the project proposal and progress (April 15): feedback will be given but not graded
+  * Final presentation on the project (May 27): graded
+  * Final project report (due on May 27): graded
 
 
 ##  3. <a name='Textbooks'></a>Textbooks
