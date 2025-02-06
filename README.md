@@ -9,6 +9,7 @@ In this course, there are three modules:
 - Part I:  Statistical Inference
 - Part II:  Anova analysis and design of experiments
 - Part III: Time Series Analysis
+The Part I and II will have stronger focus on the theory and the Part III focus on the applications.
 
 This course is continuously evaluated and have following two grading items :dart:
 - Three Lab interviews (30\%): pass/fail . Each passing lab accounts for 10 % of the final grade.
@@ -19,12 +20,17 @@ This course is continuously evaluated and have following two grading items :dart
   * Final project report (due on May 27): graded
 
 
-##  3. <a name='Textbooks'></a>Textbooks
-Here are the textbook for this course.
-- Part I - Book 1: https://www.cs.cmu.edu/~harchol/Probability/book.html
-- Part iI - Book 2:  https://www.wiley.com/en-us/Design+and+Analysis+of+Experiments%2C+10th+Edition-p-9781119492443
-- Part III - Book 3: https://www.wiley.com/en-us/Introduction+to+Time+Series+Analysis+and+Forecasting%2C+3rd+Edition-p-9781394186709
+##  3. <a name='Online materials'></a>Textbooks
 
+This course will follow the online course materials shared by the statistics department, the Penn State University. 
+Specifically, we will follow the following two courses and their lessons. 
+Here are the online for this course.
+- [CS4215 (lessons 2-14 )](https://online.stat.psu.edu/stat415/)
+- [CS510: (lessons 1-5)](https://online.stat.psu.edu/stat510/)
+
+The recommended book for CS4215 and we will use exercises of this book in the book.
+ 
+ **Hogg, R.V., and Tanis, E.A. (2020). Probability and Statistical Inference, 10th Edition, Pearson.**
 ##  4. <a name='Courseteam'></a>Course team
 
 This course will be mainly taught by [Prof. Lydia Y Chen](https://lydiaychen.github.io/)  The course team is composed of a number of PhDs  who support the course through guest lectures and project supervision and a TA who focuses on the grading of homework. 
@@ -44,21 +50,21 @@ Lydia is the responsible instructors of this course and can jointly be reached a
 ##  7. <a name='Detailedschedule'></a>Detailed schedule
 
 
-**Week**|**Lecture Topic**|**Book chapter**|**Lab designer**
+**Week**|**Lecture Topic**|**Online Lesson**|**Lab designer**
 :-----|:-----|:-----|:-----
 Week 1 (Feb 18) | Introduction and Recap|  | 
-Week 2 (Feb 25) | Estimator |Book - ch 16 | Basile | 
-Week 3 (Mar 4) | Classical inference | Book 1 - ch 17 | Basile|
-Week 4 (Mar 11) | Hypothesis Testing   | Book2-Ch2| Basile |
-Week 5 (Mar 18) | Regression |Book2- ch2| **Lab interview**|
-Week 6 (Mar 25) | DoE I| Book 2- ch3  | Elif |
-Week 7 (April 1) | DoE II |Book 2- ch 5| Elif|
-Week 8 (April 8) | DoE III | Book 2- Ch 8 |Elif |
+Week 2 (Feb 25) | Estimator |STAT4215 - lesson 1/2 | Basile | 
+Week 3 (Mar 4) | Classical inference | STAT4215 - lesson 4/5 | Basile|
+Week 4 (Mar 11) | Hypothesis Testing   | STAT4215 - lesson 7/8| Basile |
+Week 5 (Mar 18) | Regression |STAT4215 - lesson 10/11| **Lab interview**|
+Week 6 (Mar 25) | ANOVA| STAT4215 - lesson 13  | Elif |
+Week 7 (April 1) | ANOVA |STAT4215 - lesson 14| Elif|
+Week 8 (April 8) | DoE |  |Elif |
 Week 9 (April 15) |Project midterm   | | **Lab interview** |
 Week 10 (April 22) | **No Lecture**|   | **No Lab** 
-Week 11 (April 29)  |  Time Series  I | Book 3 -ch |  Fouad/Roberto|
-Week 12 (May 6) | Time Series  II | Book 3 -ch  | Fouad/Roberto |
-Week 13 (May 13 | Time Series III | Book 3 -ch |  Fouad/Roberto|
+Week 11 (April 29)  |  Time Series  I |STAT510- lesson 1/2 |  Jert |
+Week 12 (May 6) | Time Series  II | STAT510- lesson 3  | Jert |
+Week 13 (May 13 | Time Series III | STAT510- lesson 4/5 |  Jert|
 Week 14 (May 20) | Lecture Review   | | **Lab interview**|
 Week 15 (May 27) | Project final presentation  | | |
 
