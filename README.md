@@ -20,13 +20,14 @@ This course is continuously evaluated and have following two grading items :dart
   * Final project report (due on May 27): graded
 
 
-##  3. <a name='Online materials'></a>Textbooks
+##  3. <a name='Online materials'></a>Online materials
 
 This course will follow the online course materials shared by the statistics department, the Penn State University. 
-Specifically, we will follow the following two courses and their lessons. 
+Specifically, we will follow the following three courses and part of their their lessons. 
 Here are the online for this course.
-- [CS4215 (lessons 2-14 )](https://online.stat.psu.edu/stat415/)
-- [CS510: (lessons 1-5)](https://online.stat.psu.edu/stat510/)
+- [STAT4215 (lessons 2-14 )](https://online.stat.psu.edu/stat415/)
+- [STAT503 (lessons 3.5-7 )](https://online.stat.psu.edu/stat415/)
+- [STAT510: (lessons 1-5)](https://online.stat.psu.edu/stat510/)
 
 The recommended book for CS4215 and we will use exercises of this book in the book.
  
@@ -54,12 +55,12 @@ Lydia is the responsible instructors of this course and can jointly be reached a
 :-----|:-----|:-----|:-----
 Week 1 (Feb 18) | Introduction and Recap|  | 
 Week 2 (Feb 25) | Estimator |STAT4215 - lesson 1/2 | Basile | 
-Week 3 (Mar 4) | Classical inference | STAT4215 - lesson 4/5 | Basile|
-Week 4 (Mar 11) | Hypothesis Testing   | STAT4215 - lesson 7/8| Basile |
-Week 5 (Mar 18) | Regression |STAT4215 - lesson 10/11| **Lab interview**|
-Week 6 (Mar 25) | ANOVA| STAT4215 - lesson 13  | Elif |
-Week 7 (April 1) | ANOVA |STAT4215 - lesson 14| Elif|
-Week 8 (April 8) | DoE |  |Elif |
+Week 3 (Mar 4) | Classical inference | STAT4215 - lesson 3/4 | Basile|
+Week 4 (Mar 11) | Regression    | STAT4215 - lesson 7/8| Basile |
+Week 5 (Mar 18) | Hypothesis Testing |STAT4215 - lesson 10/12| **Lab interview**|
+Week 6 (Mar 25) | DOE-one factor| STAT4215 - lesson 13  | Elif |
+Week 7 (April 1) | DOE - 2^k |STAT4215 - lesson 14| Elif|
+Week 8 (April 8) | DoE - fractional |  |Elif |
 Week 9 (April 15) |Project midterm   | | **Lab interview** |
 Week 10 (April 22) | **No Lecture**|   | **No Lab** 
 Week 11 (April 29)  |  Time Series  I |STAT510- lesson 1/2 |  Jert |
