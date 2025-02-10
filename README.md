@@ -56,7 +56,7 @@ Lydia is the responsible instructors of this course and can jointly be reached a
 Week 1 (Feb 18) | Introduction and Recap|  | 
 Week 2 (Feb 25) | Estimator |STAT4215 - lesson 1/2 | Basile | 
 Week 3 (Mar 4) | Classical inference | STAT4215 - lesson 3/4 | Basile|
-Week 4 (Mar 11) | Regression    | STAT4215 - lesson 7/8| Basile |
+Week 4 (Mar 11) | Regression    | STAT4215 - lesson 6/7| Basile |
 Week 5 (Mar 18) | Hypothesis Testing |STAT4215 - lesson 10/12| **Lab interview**|
 Week 6 (Mar 25) | DOE-one factor| STAT4215 - lesson 13  | Elif |
 Week 7 (April 1) | DOE - 2^k |STAT4215 - lesson 14| Elif|
