@@ -61,11 +61,11 @@ Week 5 (Mar 18) | Hypothesis Testing |STAT4215 - lesson 10/12| **Lab interview**
 Week 6 (Mar 25) | DOE-one factor| STAT4215 - lesson 13  | Elif |
 Week 7 (April 1) | DOE - 2^k |STAT4215 - lesson 14| Elif|
 Week 8 (April 8) | DoE - fractional |  |Elif |
-Week 9 (April 15) |Project midterm   | | **Lab interview** |
+Week 9 (April 15) |Project midterm presentation  | | **Lab interview** |
 Week 10 (April 22) | **No Lecture**|   | **No Lab** 
-Week 11 (April 29)  |  Time Series  I |STAT510- lesson 1/2 |  Jert |
-Week 12 (May 6) | Time Series  II | STAT510- lesson 3  | Jert |
-Week 13 (May 13 | Time Series III | STAT510- lesson 4/5 |  Jert|
+Week 11 (April 29)  |  Time Series - AR,MA  |STAT510- lesson 1/2 |  Jert |
+Week 12 (May 6) | Time Series - (S)ARIMA | STAT510- lesson 3/4  | Jert |
+Week 13 (May 13 |  Decomposition, Smoothing | STAT510- lesson 5/6 |  Jert|
 Week 14 (May 20) | Lecture Review   | | **Lab interview**|
 Week 15 (May 27) | Project final presentation  | | |
 
