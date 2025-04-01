@@ -65,9 +65,9 @@ Week 7 (April 1) | DOE - 2^k |STAT4215 - lesson 14| Elif|
 Week 8 (April 8) | DoE - fractional |  |Elif |
 Week 9 (April 15) |Project midterm presentation  | | **Lab interview** |
 Week 10 (April 22) | **No Lecture**|   | **No Lab** 
-Week 11 (April 29)  |  Time Series - AR,MA  |STAT510- lesson 1/2 |  Jert |
-Week 12 (May 6) | Time Series - (S)ARIMA | STAT510- lesson 3/4  | Jert |
-Week 13 (May 13 |  Decomposition, Smoothing | STAT510- lesson 5/6 |  Jert|
+Week 11 (April 29)  |  Time Series - AR,MA  |STAT510- lesson 1/2 |  Gert |
+Week 12 (May 6) | Time Series - (S)ARIMA | STAT510- lesson 3/4  | Gert |
+Week 13 (May 13 |  Decomposition, Smoothing | STAT510- lesson 5/6 |  Gert|
 Week 14 (May 20) | Deep Learning for Time Series   | | **Lab interview**|
 Week 15 (May 27) | Project final presentation  | | |
 
